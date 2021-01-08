@@ -121,7 +121,7 @@ namespace DllName
                 }
                 if(message == true)
                 {
-                    MessageBox.Show($"Most Prob Your In {Form.ActiveForm.Name}'s Discord , Scroll Up Or Down In Your List Of Servers And You Should See It!", "Message By PareX ;))", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                    MessageBox.Show($"Most Prob Your In {Form.ActiveForm.Name}'s Discord , Scroll Up Or Down In Your List Of Servers And You Should See It!", ";))", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
                 }
             }
             catch (Exception ex)
